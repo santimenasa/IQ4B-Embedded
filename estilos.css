@@ -1,0 +1,23 @@
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    margin-left: 20px;
+
+  }
+  
+  /* Estilos para el iframe */
+  .embed-responsive {
+    margin-bottom: 20px;
+    border: 2px solid #AAF683;
+  }
+  
+  /* Estilos para el título */
+.titulo{
+ text-align: center;
+ margin-top: 6%;
+ color: #FFD97D;
+}
